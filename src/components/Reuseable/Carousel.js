@@ -28,8 +28,8 @@ const photos = [
 export default class Carousel extends Component {
     render() {
         const settings = {
-            dots:true,
-            fade:true,
+            dots: true,
+            fade: true,
             infinite:true,
             arrows:true,
             speed:800,
